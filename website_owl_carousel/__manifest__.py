@@ -10,8 +10,7 @@
     'depends' [
         'website',
     ],
-    'data' [
-    ],
+
     'assets': {'web.assets_backend':
 				   ['website_owl_carousel/static/lib/owl-carousel/owl.carousel.css',
 					'website_owl_carousel/static/lib/owl-carousel/owl.theme.css',
